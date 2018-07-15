@@ -1,0 +1,299 @@
+#1 crawl: http://cs.58.com/chuzu/0/pn1/
+parse count: 75/95
+#1 done
+parse count: 123/123
+#2 crawl: http://cs.58.com/chuzu/0/pn2/
+parse count: 24/35
+#2 done
+parse count: 35/38
+#3 crawl: http://cs.58.com/chuzu/0/pn3/
+parse count: 27/35
+#3 done
+parse count: 34/35
+#4 crawl: http://cs.58.com/chuzu/0/pn4/
+parse count: 27/35
+#4 done
+parse count: 36/38
+#5 crawl: http://cs.58.com/chuzu/0/pn5/
+parse count: 26/35
+#5 done
+parse count: 36/37
+#6 crawl: http://cs.58.com/chuzu/0/pn6/
+parse count: 23/35
+#6 done
+parse count: 38/38
+#7 crawl: http://cs.58.com/chuzu/0/pn7/
+parse count: 22/35
+#7 done
+parse count: 35/38
+#8 crawl: http://cs.58.com/chuzu/0/pn8/
+parse count: 26/35
+#8 done
+parse count: 37/38
+#9 crawl: http://cs.58.com/chuzu/0/pn9/
+parse count: 27/35
+#9 done
+parse count: 37/38
+#10 crawl: http://cs.58.com/chuzu/0/pn10/
+parse count: 17/35
+#10 done
+parse count: 38/38
+#11 crawl: http://cs.58.com/chuzu/0/pn11/
+parse count: 21/35
+#11 done
+parse count: 37/38
+#12 crawl: http://cs.58.com/chuzu/0/pn12/
+parse count: 24/35
+#12 done
+parse count: 37/38
+#13 crawl: http://cs.58.com/chuzu/0/pn13/
+parse count: 23/35
+#13 done
+parse count: 36/38
+#14 crawl: http://cs.58.com/chuzu/0/pn14/
+parse count: 20/35
+#14 done
+parse count: 38/38
+#15 crawl: http://cs.58.com/chuzu/0/pn15/
+parse count: 26/35
+#15 done
+parse count: 36/38
+#16 crawl: http://cs.58.com/chuzu/0/pn16/
+parse count: 25/35
+#16 done
+parse count: 37/38
+#17 crawl: http://cs.58.com/chuzu/0/pn17/
+parse count: 24/35
+#17 done
+parse count: 38/38
+#18 crawl: http://cs.58.com/chuzu/0/pn18/
+parse count: 26/35
+#18 done
+parse count: 38/38
+#19 crawl: http://cs.58.com/chuzu/0/pn19/
+parse count: 26/35
+#19 done
+parse count: 36/38
+#20 crawl: http://cs.58.com/chuzu/0/pn20/
+parse count: 28/35
+#20 done
+parse count: 37/38
+#21 crawl: http://cs.58.com/chuzu/0/pn21/
+parse count: 24/35
+#21 done
+parse count: 37/38
+#22 crawl: http://cs.58.com/chuzu/0/pn22/
+parse count: 25/35
+#22 done
+parse count: 37/38
+#23 crawl: http://cs.58.com/chuzu/0/pn23/
+parse count: 27/35
+#23 done
+parse count: 37/38
+#24 crawl: http://cs.58.com/chuzu/0/pn24/
+parse count: 28/35
+#24 done
+parse count: 36/38
+#25 crawl: http://cs.58.com/chuzu/0/pn25/
+parse count: 25/35
+#25 done
+parse count: 37/38
+#26 crawl: http://cs.58.com/chuzu/0/pn26/
+parse count: 23/35
+#26 done
+parse count: 37/38
+#27 crawl: http://cs.58.com/chuzu/0/pn27/
+parse count: 27/35
+#27 done
+parse count: 37/38
+#28 crawl: http://cs.58.com/chuzu/0/pn28/
+parse count: 25/35
+#28 done
+parse count: 37/38
+#29 crawl: http://cs.58.com/chuzu/0/pn29/
+parse count: 25/35
+#29 done
+parse count: 36/37
+#30 crawl: http://cs.58.com/chuzu/0/pn30/
+parse count: 27/35
+#30 done
+parse count: 38/38
+#31 crawl: http://cs.58.com/chuzu/0/pn31/
+parse count: 17/35
+#31 done
+parse count: 36/37
+#32 crawl: http://cs.58.com/chuzu/0/pn32/
+parse count: 25/35
+#32 done
+parse count: 36/38
+#33 crawl: http://cs.58.com/chuzu/0/pn33/
+parse count: 22/35
+#33 done
+parse count: 38/38
+#34 crawl: http://cs.58.com/chuzu/0/pn34/
+parse count: 19/35
+#34 done
+parse count: 36/38
+#35 crawl: http://cs.58.com/chuzu/0/pn35/
+parse count: 21/35
+#35 done
+parse count: 37/38
+#36 crawl: http://cs.58.com/chuzu/0/pn36/
+parse count: 25/35
+#36 done
+parse count: 37/38
+#37 crawl: http://cs.58.com/chuzu/0/pn37/
+parse count: 30/35
+#37 done
+parse count: 37/38
+#38 crawl: http://cs.58.com/chuzu/0/pn38/
+parse count: 26/35
+#38 done
+parse count: 38/38
+#39 crawl: http://cs.58.com/chuzu/0/pn39/
+parse count: 20/35
+#39 done
+parse count: 36/37
+#40 crawl: http://cs.58.com/chuzu/0/pn40/
+parse count: 25/35
+#40 done
+parse count: 37/38
+#41 crawl: http://cs.58.com/chuzu/0/pn41/
+parse count: 25/35
+#41 done
+parse count: 38/38
+#42 crawl: http://cs.58.com/chuzu/0/pn42/
+parse count: 23/35
+#42 done
+parse count: 35/36
+#43 crawl: http://cs.58.com/chuzu/0/pn43/
+parse count: 23/35
+#43 done
+parse count: 35/35
+#44 crawl: http://cs.58.com/chuzu/0/pn44/
+parse count: 22/35
+#44 done
+parse count: 37/38
+#45 crawl: http://cs.58.com/chuzu/0/pn45/
+parse count: 31/35
+#45 done
+parse count: 37/38
+#46 crawl: http://cs.58.com/chuzu/0/pn46/
+parse count: 27/35
+#46 done
+parse count: 38/38
+#47 crawl: http://cs.58.com/chuzu/0/pn47/
+parse count: 26/35
+#47 done
+parse count: 38/38
+#48 crawl: http://cs.58.com/chuzu/0/pn48/
+parse count: 29/35
+#48 done
+parse count: 37/38
+#49 crawl: http://cs.58.com/chuzu/0/pn49/
+parse count: 26/35
+#49 done
+parse count: 36/37
+#50 crawl: http://cs.58.com/chuzu/0/pn50/
+parse count: 20/35
+#50 done
+parse count: 38/38
+#51 crawl: http://cs.58.com/chuzu/0/pn51/
+parse count: 26/35
+#51 done
+parse count: 37/37
+#52 crawl: http://cs.58.com/chuzu/0/pn52/
+parse count: 0/0
+14:35:21 parser result empty
+parse count: 0/0
+14:35:24 parser result empty
+#53 crawl: http://cs.58.com/chuzu/0/pn53/
+parse count: 0/0
+14:35:26 parser result empty
+parse count: 0/0
+14:35:28 parser result empty
+#54 crawl: http://cs.58.com/chuzu/0/pn54/
+parse count: 0/0
+14:35:29 parser result empty
+parse count: 0/0
+14:35:29 parser result empty
+#55 crawl: http://cs.58.com/chuzu/0/pn55/
+parse count: 0/0
+14:35:31 parser result empty
+parse count: 0/0
+14:35:33 parser result empty
+#56 crawl: http://cs.58.com/chuzu/0/pn56/
+parse count: 0/0
+14:35:36 parser result empty
+parse count: 0/0
+14:35:37 parser result empty
+#57 crawl: http://cs.58.com/chuzu/0/pn57/
+parse count: 0/0
+14:35:39 parser result empty
+parse count: 0/0
+14:35:40 parser result empty
+#58 crawl: http://cs.58.com/chuzu/0/pn58/
+parse count: 0/0
+14:35:41 parser result empty
+parse count: 0/0
+14:35:44 parser result empty
+#59 crawl: http://cs.58.com/chuzu/0/pn59/
+parse count: 0/0
+14:35:46 parser result empty
+parse count: 0/0
+14:35:48 parser result empty
+#60 crawl: http://cs.58.com/chuzu/0/pn60/
+parse count: 0/0
+14:35:48 parser result empty
+parse count: 0/0
+14:35:49 parser result empty
+#61 crawl: http://cs.58.com/chuzu/0/pn61/
+parse count: 0/0
+14:35:52 parser result empty
+parse count: 0/0
+14:35:53 parser result empty
+#62 crawl: http://cs.58.com/chuzu/0/pn62/
+parse count: 0/0
+14:35:54 parser result empty
+parse count: 0/0
+14:35:56 parser result empty
+#63 crawl: http://cs.58.com/chuzu/0/pn63/
+parse count: 0/0
+14:35:56 parser result empty
+parse count: 0/0
+14:35:57 parser result empty
+#64 crawl: http://cs.58.com/chuzu/0/pn64/
+parse count: 0/0
+14:35:58 parser result empty
+parse count: 0/0
+14:35:58 parser result empty
+#65 crawl: http://cs.58.com/chuzu/0/pn65/
+parse count: 0/0
+14:36:00 parser result empty
+parse count: 0/0
+14:36:02 parser result empty
+#66 crawl: http://cs.58.com/chuzu/0/pn66/
+parse count: 0/0
+14:36:03 parser result empty
+parse count: 0/0
+14:36:04 parser result empty
+#67 crawl: http://cs.58.com/chuzu/0/pn67/
+parse count: 0/0
+14:36:05 parser result empty
+parse count: 0/0
+14:36:06 parser result empty
+#68 crawl: http://cs.58.com/chuzu/0/pn68/
+parse count: 0/0
+14:36:07 parser result empty
+parse count: 0/0
+14:36:08 parser result empty
+#69 crawl: http://cs.58.com/chuzu/0/pn69/
+parse count: 0/0
+14:36:10 parser result empty
+parse count: 0/0
+14:36:13 parser result empty
+#70 crawl: http://cs.58.com/chuzu/0/pn70/
+parse count: 0/0
+14:36:14 parser result empty
+parse count: 0/0
+14:36:16 parser result empty
