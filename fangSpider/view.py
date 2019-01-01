@@ -10,6 +10,7 @@ def area_plot(df):
     # 房屋面积分布
     bins = [0, 30, 60, 90, 120, 150, 200, 300, 400, 700]
     level = ['0-30', '30-60', '60-90', '90-120', '120-150', '150-200', '200-300', '300-400', '400+']
+    df['area'] = df['area'].astype(float)
     df['square_level'] = pd.cut(df['area'], bins=bins, labels=level)
 
     df_digit = df[

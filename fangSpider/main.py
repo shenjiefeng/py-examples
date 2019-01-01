@@ -108,7 +108,7 @@ def view(df):
     assert isinstance(df, pd.DataFrame)
     df = df.dropna()
     word_cloud_plot(df)
-    area_plot(df)
+    # area_plot(df)
     area_price_plot(df)
 
     return
@@ -122,8 +122,9 @@ def main():
         houseLst.extend(_parser(i, url.format(i)))
 
     finalDf = pd.DataFrame([i.toDict() for i in houseLst])
-    view(finalDf)
+
     finalDf.to_csv(report_file, index=False, encoding='utf_8_sig')
+    view(finalDf)
     return houseLst
 
 
