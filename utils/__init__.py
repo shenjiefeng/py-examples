@@ -1,6 +1,6 @@
 # encoding: utf-8
 __author__ = 'fengshenjie'
-from fsjutils.conf import UserAgentList
+from utils.conf import UserAgentList
 import random
 import time
 import traceback

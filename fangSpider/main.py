@@ -1,6 +1,6 @@
 # encoding: utf-8
 __author__ = 'fengshenjie'
-from fsjutils import GetHeaderV1, Downloader
+from utils import GetHeaderV1, Downloader
 from lxml import html
 import traceback
 import pandas as pd
